@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✧ Let's connect at // https://www.linkedin.com/in/faysiripa/<br>✧ Check out my work at // in process {web}<br>✧ Email is // siripa.aung@gmail.com</p>
+<p align="left">✧ Let's connect at <a href="https://www.linkedin.com/in/faysiripa/">LinkedIn</a><br>✧ Check out my work at // in process {web}<br>✧ Email is // <a href="siripa.aung@gmail.com">siripa.aung@gmail.com</a></p>
 
 ###
 
