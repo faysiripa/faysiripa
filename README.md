@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">⚝ 𓂃 self-learner & software developer with passion in web development, AI, and game! Let's make magic 𓂂 ⋆⁺₊⋆ ₍ᐢ.ˬ.ᐢ₎ /</h4>
+<h4 align="left">⚝ 𓂃 self-learner & software developer with passion in web development, AI, and game! Let's make magic through code 𓂂 ⋆⁺₊⋆ ₍ᐢ.ˬ.ᐢ₎ /</h4>
 
 ###
 
