@@ -43,5 +43,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
 </div>
-
-###
