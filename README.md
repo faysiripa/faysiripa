@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✧ Let's connect at <a href="https://www.linkedin.com/in/faysiripa/" target="_blank">LinkedIn</a><br>✧ Check out my <a href="https://portfolio-website-pi-seven-46.vercel.app/" target="_blank">Portfolio Website !</a><br>✧ Email is <a href="https://github.com/faysiripa/faysiripa">siripa.aung@gmail.com</a></p>
+<p align="left">✧ Let's connect at <a href="https://www.linkedin.com/in/faysiripa/" target="_blank">LinkedIn</a><br>✧ Check out my <a href="https://portfolio-website-pi-seven-46.vercel.app/" target="_blank">Portfolio Website</a><br>✧ Email is <a href="https://github.com/faysiripa/faysiripa">siripa.aung@gmail.com</a></p>
 
 ###
 
